@@ -1,0 +1,6 @@
+@MOMProj_HostAddress = http://localhost:5174
+
+GET {{MOMProj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
